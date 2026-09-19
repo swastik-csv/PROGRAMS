@@ -1,6 +1,6 @@
 # 📝 4. Median of Two Sorted Arrays (LeetCode)
 
-🔗 [Problem Link](https://leetcode.com/problems/median-of-two-sorted-arrays)
+🔗 [Problem Link](https://leetcode.com/problems/median-of-two-sorted-arrays/)
 
 ![Difficulty](https://img.shields.io/badge/Difficulty-Hard-red) ![Language](https://img.shields.io/badge/Language-Python-blue)
 
@@ -8,8 +8,8 @@
 Array, Binary Search, Divide and Conquer
 
 ### 🚀 Performance
-- **Runtime:** N/A
-- **Memory:** N/A
+- **Runtime:** 0 ms
+- **Memory:** 19.8 MB
 
 ---
 

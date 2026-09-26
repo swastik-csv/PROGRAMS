@@ -1,6 +1,6 @@
 # 📝 119. Pascal's Triangle II (LeetCode)
 
-🔗 [Problem Link](https://leetcode.com/problems/pascals-triangle-ii/?envType=problem-list-v2&envId=dynamic-programming)
+🔗 [Problem Link](https://leetcode.com/problems/pascals-triangle-ii/)
 
 ![Difficulty](https://img.shields.io/badge/Difficulty-Easy-brightgreen) ![Language](https://img.shields.io/badge/Language-Python-blue)
 
@@ -8,8 +8,8 @@
 Array, Dynamic Programming
 
 ### 🚀 Performance
-- **Runtime:** N/A
-- **Memory:** N/A
+- **Runtime:** 0 ms
+- **Memory:** 19.2 MB
 
 ---
 

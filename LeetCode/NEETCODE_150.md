@@ -3,7 +3,7 @@
 Track your progress on the NeetCode 150 roadmap practice problems.
 
 ## Progress
-- **Completed:** 2 / 150 (1.3%)
+- **Completed:** 3 / 150 (2.0%)
 
 ---
 
@@ -169,7 +169,7 @@ Track your progress on the NeetCode 150 roadmap practice problems.
 - [ ] Minimum Interval to Include Each Query
 
 ### 📂 Bit Manipulation
-- [ ] Single Number
+- [x] [Single Number](./Python/Easy/136. Single Number/)
 - [ ] Number of 1 Bits
 - [ ] Counting Bits
 - [ ] Reverse Bits

@@ -1,6 +1,6 @@
 # 📝 215. Kth Largest Element in an Array (LeetCode)
 
-🔗 [Problem Link](https://leetcode.com/problems/kth-largest-element-in-an-array/?envType=problem-list-v2&envId=sorting)
+🔗 [Problem Link](https://leetcode.com/problems/kth-largest-element-in-an-array/)
 
 ![Difficulty](https://img.shields.io/badge/Difficulty-Medium-orange) ![Language](https://img.shields.io/badge/Language-Python-blue)
 
@@ -8,8 +8,8 @@
 Array, Divide and Conquer, Sorting, Heap (Priority Queue), Quickselect
 
 ### 🚀 Performance
-- **Runtime:** N/A
-- **Memory:** N/A
+- **Runtime:** 107 ms
+- **Memory:** 30.9 MB
 
 ---
 

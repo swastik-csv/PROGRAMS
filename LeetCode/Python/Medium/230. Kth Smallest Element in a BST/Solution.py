@@ -25,5 +25,4 @@ class Solution:
                 return curr.val
             
             # Visit the right subtree
-            curr = curr.righ
-            t
+            curr = curr.right

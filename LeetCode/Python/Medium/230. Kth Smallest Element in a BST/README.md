@@ -1,6 +1,6 @@
 # 📝 230. Kth Smallest Element in a BST (LeetCode)
 
-🔗 [Problem Link](https://leetcode.com/problems/kth-smallest-element-in-a-bst/?envType=problem-list-v2&envId=binary-search-tree)
+🔗 [Problem Link](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)
 
 ![Difficulty](https://img.shields.io/badge/Difficulty-Medium-orange) ![Language](https://img.shields.io/badge/Language-Python-blue)
 
@@ -8,8 +8,8 @@
 Tree, Depth-First Search, Binary Search Tree, Binary Tree
 
 ### 🚀 Performance
-- **Runtime:** N/A
-- **Memory:** N/A
+- **Runtime:** 0 ms
+- **Memory:** 22.1 MB
 
 ---
 

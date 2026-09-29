@@ -10,5 +10,4 @@ class Solution:
             x //= 10
             
         # When the length is an odd number, we can get rid of the middle digit by reversed_half // 10
-        return x == reversed_half or x == reversed_half // 1
-        0
+        return x == reversed_half or x == reversed_half // 10

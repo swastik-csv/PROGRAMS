@@ -3,7 +3,7 @@
 Track your progress on the Curated 100hrs Advanced DSA interview preparation list.
 
 ## Progress
-- **Completed:** 1 / 65 (1.5%)
+- **Completed:** 2 / 65 (3.1%)
 
 ---
 
@@ -84,7 +84,7 @@ Track your progress on the Curated 100hrs Advanced DSA interview preparation lis
 
 ### 📂 Module  2.4: Expression Evaluation & Par
 - [ ] Evaluate Reverse Polish Notation
-- [ ] Basic Calculator
+- [x] [Basic Calculator](./Python/Hard/224. Basic Calculator/)
 - [ ] Basic Calculator II
 - [ ] Clumsy Factorial
 - [ ] Decode String

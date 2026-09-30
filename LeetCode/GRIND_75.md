@@ -3,7 +3,7 @@
 Track your progress on the Grind 75 coding interview preparation list.
 
 ## Progress
-- **Completed:** 6 / 75 (8.0%)
+- **Completed:** 7 / 75 (9.3%)
 
 ---
 
@@ -17,7 +17,7 @@ Track your progress on the Grind 75 coding interview preparation list.
 - [ ] Maximum Subarray
 - [ ] Maximum Product Subarray
 - [ ] Find Minimum in Rotated Sorted Array
-- [ ] Search in Rotated Sorted Array
+- [x] [Search in Rotated Sorted Array](./Python/Medium/33. Search in Rotated Sorted Array/)
 - [x] [3Sum](./Python/Medium/15. 3Sum/)
 - [x] [Container With Most Water](./Python/Medium/11. Container With Most Water/)
 

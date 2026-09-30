@@ -1,6 +1,6 @@
 # 📝 16. 3Sum Closest (LeetCode)
 
-🔗 [Problem Link](https://leetcode.com/problems/3sum-closest)
+🔗 [Problem Link](https://leetcode.com/problems/3sum-closest/)
 
 ![Difficulty](https://img.shields.io/badge/Difficulty-Medium-orange) ![Language](https://img.shields.io/badge/Language-Python-blue)
 
@@ -8,8 +8,8 @@
 Array, Two Pointers, Sorting
 
 ### 🚀 Performance
-- **Runtime:** N/A
-- **Memory:** N/A
+- **Runtime:** 386 ms
+- **Memory:** 19.3 MB
 
 ---
 

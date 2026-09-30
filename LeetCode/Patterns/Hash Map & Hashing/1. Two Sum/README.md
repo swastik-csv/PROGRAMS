@@ -1,6 +1,6 @@
 # 📝 1. Two Sum (LeetCode)
 
-🔗 [Problem Link](https://leetcode.com/problems/two-sum/?envType=problem-list-v2&envId=array)
+🔗 [Problem Link](https://leetcode.com/problems/two-sum/)
 
 ![Difficulty](https://img.shields.io/badge/Difficulty-Easy-brightgreen) ![Language](https://img.shields.io/badge/Language-Python-blue)
 
@@ -8,8 +8,8 @@
 Array, Hash Table
 
 ### 🚀 Performance
-- **Runtime:** N/A
-- **Memory:** N/A
+- **Runtime:** 0 ms
+- **Memory:** 20.4 MB
 
 ---
 

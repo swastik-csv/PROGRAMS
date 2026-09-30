@@ -3,7 +3,7 @@
 Track your progress on the Grind 100 coding interview preparation list.
 
 ## Progress
-- **Completed:** 5 / 100 (5.0%)
+- **Completed:** 6 / 100 (6.0%)
 
 ---
 
@@ -12,7 +12,7 @@ Track your progress on the Grind 100 coding interview preparation list.
 ### 📂 Array & Two Pointers
 - [x] [Two Sum](./Python/Easy/1. Two Sum/)
 - [x] [3Sum](./Python/Medium/15. 3Sum/)
-- [ ] Container With Most Water
+- [x] [Container With Most Water](./Python/Medium/11. Container With Most Water/)
 - [ ] Move Zeroes
 - [ ] Sort Colors
 - [ ] Product of Array Except Self

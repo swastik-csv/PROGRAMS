@@ -1,6 +1,6 @@
 # 📝 31. Next Permutation (LeetCode)
 
-🔗 [Problem Link](https://leetcode.com/problems/next-permutation/?envType=problem-list-v2&envId=array)
+🔗 [Problem Link](https://leetcode.com/problems/next-permutation/)
 
 ![Difficulty](https://img.shields.io/badge/Difficulty-Medium-orange) ![Language](https://img.shields.io/badge/Language-Python-blue)
 
@@ -8,8 +8,8 @@
 Array, Two Pointers
 
 ### 🚀 Performance
-- **Runtime:** N/A
-- **Memory:** N/A
+- **Runtime:** 0 ms
+- **Memory:** 19.4 MB
 
 ---
 

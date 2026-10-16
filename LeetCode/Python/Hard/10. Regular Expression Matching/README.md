@@ -1,6 +1,6 @@
 # 📝 10. Regular Expression Matching (LeetCode)
 
-🔗 [Problem Link](https://leetcode.com/problems/regular-expression-matching)
+🔗 [Problem Link](https://leetcode.com/problems/regular-expression-matching/)
 
 ![Difficulty](https://img.shields.io/badge/Difficulty-Hard-red) ![Language](https://img.shields.io/badge/Language-Python-blue)
 
@@ -8,8 +8,8 @@
 String, Dynamic Programming, Recursion
 
 ### 🚀 Performance
-- **Runtime:** N/A
-- **Memory:** N/A
+- **Runtime:** 6 ms
+- **Memory:** 19.4 MB
 
 ---
 

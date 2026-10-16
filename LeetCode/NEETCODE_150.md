@@ -3,7 +3,7 @@
 Track your progress on the NeetCode 150 roadmap practice problems.
 
 ## Progress
-- **Completed:** 13 / 150 (8.7%)
+- **Completed:** 14 / 150 (9.3%)
 
 ---
 
@@ -148,7 +148,7 @@ Track your progress on the NeetCode 150 roadmap practice problems.
 - [ ] Distinct Subsequences
 - [ ] Edit Distance
 - [ ] Burst Balloons
-- [ ] Regular Expression Matching
+- [x] [Regular Expression Matching](./Python/Hard/10. Regular Expression Matching/)
 
 ### 📂 Greedy
 - [ ] Maximum Subarray

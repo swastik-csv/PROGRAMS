@@ -1,6 +1,6 @@
 # 📝 8. String to Integer (atoi) (LeetCode)
 
-🔗 [Problem Link](https://leetcode.com/problems/string-to-integer-atoi)
+🔗 [Problem Link](https://leetcode.com/problems/string-to-integer-atoi/)
 
 ![Difficulty](https://img.shields.io/badge/Difficulty-Medium-orange) ![Language](https://img.shields.io/badge/Language-Python-blue)
 
@@ -8,8 +8,8 @@
 String
 
 ### 🚀 Performance
-- **Runtime:** N/A
-- **Memory:** N/A
+- **Runtime:** 2 ms
+- **Memory:** 19.3 MB
 
 ---
 

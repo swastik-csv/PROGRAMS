@@ -1,6 +1,6 @@
 # 📝 5. Longest Palindromic Substring (LeetCode)
 
-🔗 [Problem Link](https://leetcode.com/problems/longest-palindromic-substring)
+🔗 [Problem Link](https://leetcode.com/problems/longest-palindromic-substring/)
 
 ![Difficulty](https://img.shields.io/badge/Difficulty-Medium-orange) ![Language](https://img.shields.io/badge/Language-Python-blue)
 
@@ -8,8 +8,8 @@
 Two Pointers, String, Dynamic Programming, Manacher
 
 ### 🚀 Performance
-- **Runtime:** N/A
-- **Memory:** N/A
+- **Runtime:** 267 ms
+- **Memory:** 19 MB
 
 ---
 

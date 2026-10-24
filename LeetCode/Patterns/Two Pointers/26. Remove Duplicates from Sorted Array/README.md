@@ -1,6 +1,6 @@
 # 📝 26. Remove Duplicates from Sorted Array (LeetCode)
 
-🔗 [Problem Link](https://leetcode.com/problems/remove-duplicates-from-sorted-array/?envType=problem-list-v2&envId=array)
+🔗 [Problem Link](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)
 
 ![Difficulty](https://img.shields.io/badge/Difficulty-Easy-brightgreen) ![Language](https://img.shields.io/badge/Language-Python-blue)
 

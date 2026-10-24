@@ -1,6 +1,6 @@
 # 📝 25. Reverse Nodes in k-Group (LeetCode)
 
-🔗 [Problem Link](https://leetcode.com/problems/reverse-nodes-in-k-group)
+🔗 [Problem Link](https://leetcode.com/problems/reverse-nodes-in-k-group/)
 
 ![Difficulty](https://img.shields.io/badge/Difficulty-Hard-red) ![Language](https://img.shields.io/badge/Language-Python-blue)
 
@@ -8,8 +8,8 @@
 Linked List, Recursion
 
 ### 🚀 Performance
-- **Runtime:** N/A
-- **Memory:** N/A
+- **Runtime:** 3 ms
+- **Memory:** 20.3 MB
 
 ---
 

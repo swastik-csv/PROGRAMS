@@ -3,7 +3,7 @@
 Track your progress on the Curated 100hrs DSA core interview preparation list.
 
 ## Progress
-- **Completed:** 18 / 238 (7.6%)
+- **Completed:** 19 / 238 (8.0%)
 
 ---
 
@@ -283,7 +283,7 @@ Track your progress on the Curated 100hrs DSA core interview preparation list.
 - [ ] Delete the Middle Node of a Linked List
 - [ ] Remove Duplicates from Sorted List
 - [ ] Remove Linked List Elements
-- [ ] Merge Two Sorted Lists
+- [x] [Merge Two Sorted Lists](./Python/Easy/21. Merge Two Sorted Lists/)
 - [ ] Rotate List
 - [x] [Add Two Numbers](./Python/Medium/2. Add Two Numbers/)
 - [ ] Convert Binary Number in a Linked List to Integer

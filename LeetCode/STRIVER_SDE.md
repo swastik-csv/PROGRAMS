@@ -3,7 +3,7 @@
 Track your progress on the Striver's SDE Sheet top interview problems.
 
 ## Progress
-- **Completed:** 12 / 76 (15.8%)
+- **Completed:** 13 / 76 (17.1%)
 
 ---
 
@@ -41,7 +41,7 @@ Track your progress on the Striver's SDE Sheet top interview problems.
 - [ ] Delete Node in a Linked List
 - [ ] Intersection of Two Linked Lists
 - [ ] Linked List Cycle
-- [ ] Reverse Nodes in k-Group
+- [x] [Reverse Nodes in k-Group](./Python/Hard/25. Reverse Nodes in k-Group/)
 - [ ] Palindrome Linked List
 - [ ] LRU Cache
 - [ ] LFU Cache
